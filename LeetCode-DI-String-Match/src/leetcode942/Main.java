@@ -1,4 +1,4 @@
-package matchString;
+package leetcode942;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package matchString;
+package leetcode942;
 
 public class MatchStringSolution {
     public int[] diStringMatch(String S) {
